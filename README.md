@@ -5,7 +5,7 @@ https://asben1.github.io/2022.06.27_LIGHTBOX_GALLERY/
 2. 이벤트 리스너 이용
 <br>
 A. 이미지 썸네일 클릭 
--> lightbox 에 해당 이미지 url 변경
+-> lightbox 에 해당 이미지 url 변경<br>
    [setAttribute & getAttribute 사용] (제이쿼리=attr)<br>
 -> 팝업 display
 <br>
