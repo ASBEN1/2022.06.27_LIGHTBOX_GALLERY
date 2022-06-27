@@ -1,4 +1,5 @@
 # 2022.06.27 LIGHTBOX GALLERY
+https://asben1.github.io/2022.06.27_LIGHTBOX_GALLERY/
 <br>
 1. 내장 객체 이용
 2. 이벤트 리스너 이용
